@@ -3,8 +3,11 @@ hadoop利用MapReduce进行排序
 hadoop实现最基本的数字排序，并且是多文件的总排序。
 配置：
 系统：**ubuntu 16.04**
+
 java :  **1.8.0_191**
+
 hadoop: **1.2.1**
+
 实现的前提是配置好hadoop环境变量并启动。
 终端输入：
 ```linux
